@@ -1,4 +1,4 @@
-# coursera-datascience-gcd-project
+# Getting and Cleaning Data, final project
 
 This is the final project for Coursera's Getting and Cleaning Data course.
 
